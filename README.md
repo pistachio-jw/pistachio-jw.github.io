@@ -1,4 +1,2 @@
 # pistachio
-import java.util.Scanner;
-class test{
-}
+So, baby, pull me closer in the back sheet of your rover...
