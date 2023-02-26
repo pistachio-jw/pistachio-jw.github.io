@@ -1,1 +1,13 @@
-stylesheet.css
+body{
+    font-family: "Avenir Next";
+}
+
+li{
+    list-style: none;
+}
+
+header{
+    background-color: aquamarine;
+    color: navy;
+    height: 90px;
+}
